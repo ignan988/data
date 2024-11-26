@@ -1,0 +1,81 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "email": "usuario1@mail.cl",
+      "password": "duoc1234",
+      "rut": "19992897-k",
+      "isactive": true,
+      "eventos": [
+        {
+          "id": "1",
+          "imagen": "https://via.placeholder.com/150",
+          "nombre": "Evento 1",
+          "fecha": "2024-12-01",
+          "lugar": "Santiago",
+          "descripcion": "Descripción del evento 1"
+        }
+      ]
+    },
+    {
+      "id": "7b2d",
+      "username": "marias",
+      "password": "nenebakan98",
+      "email": "sadansa@gmail.com",
+      "rut": "123123123-2",
+      "isactive": true,
+      "eventos": [
+        {
+          "id": "2",
+          "nombre": "Taller de Ajedrez",
+          "fecha": "2024-12-05",
+          "descripcion": "Taller de ajedrez para todos los niveles.",
+          "ubicacion": "Maipú, Santiago",
+          "participantes": [],
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "8bdb",
+      "username": "lalalaas",
+      "password": "nenebakan98",
+      "email": "dsadas@dasdas.com",
+      "rut": "12312321912-5",
+      "isactive": true
+    }
+  ],
+  "eventosGlobales": [
+    {
+      "id": "1",
+      "nombre": "Sesión de Abrazos",
+      "fecha": "2024-11-30T15:59:00",
+      "descripcion": "Acá se dan abrazos.",
+      "ubicacion": "Duoc sede Maipú",
+      "participantes": [],
+      "activo": true,
+      "imagen": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "nombre": "Lalalala",
+      "fecha": "2024-11-20T22:29:00",
+      "descripcion": "Evento de prueba",
+      "ubicacion": "Sadasd",
+      "participantes": [],
+      "activo": true,
+      "imagen": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "nombre": "Evento Dasdasd",
+      "fecha": "2024-11-28T22:31:00",
+      "descripcion": "Descripción del evento dasdasd",
+      "ubicacion": "Dasdas",
+      "participantes": [],
+      "activo": true,
+      "imagen": "https://via.placeholder.com/150"
+    }
+  ]
+}
